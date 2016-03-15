@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  xibTableViewController.h
 //  xibTableView
 //
 //  Created by zjj on 16/3/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface xibTableViewController : UITableViewController
 
 @end
